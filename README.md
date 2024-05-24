@@ -11,11 +11,11 @@ Tareas:
 - [X] Crear función de `resetStats()` para comenzar la partida y borrar las estadisticas del objPuntaje.
 - [X] Contar partidas ganadas - perdidas - empatadas
 - [X] Contar valores de la AI y valores del Jugador
-- [X] Crear en el HTML <span> de Ganadas - Perdidas - Empatadas
+- [X] Crear en el HTML `<span>` de Ganadas - Perdidas - Empatadas
 - [X] Crear función `mostrarEstadisticas()` para mostrar mostrar Ganadas - Perdidas - Empatadas
-- [X] Crear en el HTML <div> de txtEstadisticas
+- [X] Crear en el HTML `<div>` de txtEstadisticas
 - [ ] Mostrar estadísticas de Usuario y AI (cant de 👊🏻, ✋🏻, ✌🏻 de cada uno) con template String.
-- [X] Crear en el HTML <div> de `ProgressBar` con sus hijos
+- [X] Crear en el HTML `<div>` de `ProgressBar` con sus hijos
 - [X] Armar selectores de progressBar en JS
 - [X] crear utilities en CSS de `u-bgRed` y `u-bgBlue`
 - [X] Armar función de graficar barra calculando porcentajes y actualizando el ancho de las barras con `divGanadas/Perdidas.style.width`
@@ -28,4 +28,4 @@ Tareas:
 - [ ] Modificar los botones para que no se vean como botones
 - [ ] Agregar fondo, imagenes
 - [ ] Agregar algún personaje Animado que represente la AI (lottiefiles.com)
-- [ ] Ver archivos .lottie y .json <lottie-player> <dotlottie-player>
+- [ ] Ver archivos .lottie y .json `<lottie-player>` `<dotlottie-player>`
