@@ -14,16 +14,16 @@ Tareas:
 - [X] Crear en el HTML `<span>` de Ganadas - Perdidas - Empatadas
 - [X] Crear función `mostrarEstadisticas()` para mostrar mostrar Ganadas - Perdidas - Empatadas
 - [X] Crear en el HTML `<div>` de txtEstadisticas
-- [ ] Mostrar estadísticas de Usuario y AI (cant de 👊🏻, ✋🏻, ✌🏻 de cada uno) con template String.
+- [X] Mostrar estadísticas de Usuario y AI (cant de 👊🏻, ✋🏻, ✌🏻 de cada uno) con template String.
 - [X] Crear en el HTML `<div>` de `ProgressBar` con sus hijos
 - [X] Armar selectores de progressBar en JS
 - [X] crear utilities en CSS de `u-bgRed` y `u-bgBlue`
 - [X] Armar función de graficar barra calculando porcentajes y actualizando el ancho de las barras con `divGanadas/Perdidas.style.width`
-- [ ] Crear un botón donde `AutoPlay` para que la maquina juegue contra ella misma.
-- [ ] Crear la función `AIvsAI` para lograr el autoPlay.
-- [ ] Usar `setInterval` para que juegue permanentemente cada 0.1 segundos.
-- [ ] Agregar `clearInterval` en el reset.
-- [ ] Agregar un botón de `Reset` en el HTML para detener detener el juego y reiniciar.
+- [X] Crear un botón donde `AutoPlay` para que la maquina juegue contra ella misma.
+- [X] Crear la función `AIvsAI` para lograr el autoPlay.
+- [X] Usar `setInterval` para que juegue permanentemente cada 0.1 segundos.
+- [X] Agregar `clearInterval` en el reset.
+- [X] Agregar un botón de `Reset` en el HTML para detener detener el juego y reiniciar.
 - [ ] Diseñar interfaz del juego
 - [ ] Modificar los botones para que no se vean como botones
 - [ ] Agregar fondo, imagenes
